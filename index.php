@@ -1,3 +1,5 @@
+<title>@kripul_</title>
+
 <pre>
 
 <strong>System Information:</strong>
